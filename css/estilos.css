@@ -14,3 +14,9 @@ body {
 .container h1 {
     font-size: 20px;
 }
+
+.cabecera {
+    border: 1px solid #ddd;
+    background: blanchedalmond;
+    color: rgb(223, 170, 100);
+}
